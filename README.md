@@ -32,5 +32,5 @@ We as a group have come up with an app that would be helpful during this pandemi
    
 |  <p>Dinesh</p> |<p>
   Vasanth Kumar</p> |<br />
- |<a href="https://www.linkedin.com/in/sy-d"  target="_blank"><img href=</a>|<a target="_blank" href="https://www.linkedin.com/in/vasanth-kumar-967810169/">Vasanth Kumar</a>     |                                                 |
+ |<a href="https://www.linkedin.com/in/sy-d"  target="_blank"><img href="https://github.com/karthik18041999/DOCERE/blob/Images/linkedin-logo.png"></a>|<a target="_blank" href="https://www.linkedin.com/in/vasanth-kumar-967810169/">Vasanth Kumar</a>     |                                                 |
 
