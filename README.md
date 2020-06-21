@@ -14,4 +14,15 @@ We as a group have come up with an app that would be helpful during this pandemi
   <img src="https://github.com/karthik18041999/DOCERE/blob/Images/1.jpeg" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/karthik18041999/DOCERE/blob/Images/2a.jpeg" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/karthik18041999/DOCERE/blob/Images/2b.jpeg" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/karthik18041999/DOCERE/blob/Images/3.jpeg" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/karthik18041999/DOCERE/blob/Images/4a.jpeg" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/karthik18041999/DOCERE/blob/Images/4b.jpeg" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<p float="left">
+  <img src="https://github.com/karthik18041999/DOCERE/blob/Images/5a.jpeg" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/karthik18041999/DOCERE/blob/Images/5b.jpeg" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/karthik18041999/DOCERE/blob/Images/5c.jpeg" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/karthik18041999/DOCERE/blob/Images/6a.jpeg" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/karthik18041999/DOCERE/blob/Images/6b.jpeg" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/karthik18041999/DOCERE/blob/Images/7.jpeg" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
