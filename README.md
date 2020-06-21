@@ -27,8 +27,7 @@ We as a group have come up with an app that would be helpful during this pandemi
   <img src="https://github.com/karthik18041999/DOCERE/blob/Images/7.jpeg" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## Developed By
+## Developed by
     
        [KEERTHIBALA V](https://www.linkedin.com/in/keerthibala-v-5349b0152/)
        <a href="https://www.linkedin.com/in/karthik-n-r-79bb94156/">KARTHIK N R</a>
-      [link to Google!](http://google.com)
