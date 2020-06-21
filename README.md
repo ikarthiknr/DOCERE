@@ -8,3 +8,10 @@ We as a group have come up with an app that would be helpful during this pandemi
 
 ## Demo 
 <img src="https://github.com/karthik18041999/DOCERE/blob/Images/youtube-logo.png" height="250" width="250">
+
+## Screenshots
+<p float="left">
+  <img src="https://github.com/karthik18041999/DOCERE/blob/Images/1.jpeg" width="100" />
+  <img src="https://github.com/karthik18041999/DOCERE/blob/Images/2a.jpeg" width="100" /> 
+  <img src="https://github.com/karthik18041999/DOCERE/blob/Images/2b.jpeg" width="100" />
+</p>
