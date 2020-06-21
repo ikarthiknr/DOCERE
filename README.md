@@ -29,4 +29,4 @@ We as a group have come up with an app that would be helpful during this pandemi
 
 ## Developed by
  |           Landing Page            |        Covid19 Trends        | <br/>
- | ![image](.images/linkedin-logo.png)     | ![image](.images/github-logo.png)  | 
+ | ![image](.Images/linkedin-logo.png)     | ![image](.Images/github-logo.png)  | 
