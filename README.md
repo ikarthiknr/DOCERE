@@ -7,7 +7,7 @@ We as a group have come up with an app that would be helpful during this pandemi
 <a href="https://drive.google.com/file/d/1RAs1CwQSTQT2kXk_tAqyos9Qc9hIqyZ-/view?usp=sharing"><img src="https://github.com/karthik18041999/DOCERE/blob/Images/download-logo.png" height="100" width="100"></a>
 
 ## Demo 
-<img src="https://github.com/karthik18041999/DOCERE/blob/Images/youtube-logo.png" height="250" width="250">
+<a href="https://youtu.be/P3b4kZpVaVU"><img src="https://github.com/karthik18041999/DOCERE/blob/Images/youtube-logo.png" height="250" width="250"></a>
 
 ## Screenshots
 <p float="left">
