@@ -28,5 +28,7 @@ We as a group have come up with an app that would be helpful during this pandemi
 </p>
 
 ## Developed by
- |           Landing Page            |        Covid19 Trends        | <br/>
- | ![image](.Images/linkedin-logo.png)     | ![image](.Images/github-logo.png)  | 
+ |           KARTHIK NR          |        KEERTHIBALA V        | <br/>
+ | <a href="https://www.linkedin.com/in/karthik-n-r-79bb94156/">Linkedin</a>     | <a href="https://www.linkedin.com/in/keerthibala-v-5349b0152/">Linkedin</a>  | <br/>
+ | <a href="https://github.com/Karthik1804">Github</a>     | <a href="https://github.com/KEERTHIBALA10">Github</a>  | <br/>
+ 
