@@ -29,5 +29,5 @@ We as a group have come up with an app that would be helpful during this pandemi
 
 ## Developed By
     
-      1. [KEERTHIBALA V]()
+      1. [KEERTHIBALA V](https://www.linkedin.com/in/keerthibala-v-5349b0152/)
       2. <p><a href="https://www.linkedin.com/in/karthik-n-r-79bb94156/">KARTHIK N R</a></p>
