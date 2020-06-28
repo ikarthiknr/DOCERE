@@ -27,7 +27,7 @@ We as a group have come up with an app that would be helpful during this pandemi
   <img src="https://github.com/karthik18041999/DOCERE/blob/Images/7.jpeg" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## Source code: 
+## Source code 
 <p>
   <a href="https://github.com/KEERTHIBALA10/Docere">https://github.com/KEERTHIBALA10/Docere</a>
 </p>
